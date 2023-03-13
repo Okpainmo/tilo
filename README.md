@@ -1,6 +1,6 @@
 # About tilo
 
-Tilo is a beautiful side-project I am working on. It's a crypto based project to aid cryptocurrency marketers and other cryto enthusiasts in watching and trading the market with ease thanks to a user experience that is streamlined towards simplicity and efficiency.
+Tilo is a beautiful side-project I am working on. It's a crypto based project to aid cryptocurrency marketers and other cryto enthusiasts in watching and trading the market with ease, thanks to a user experience that is streamlined towards simplicity and efficiency.
 
 It will provide a base for traders to watch the market(top 50 coins), keep an eye on trending coins, be able to swap crypto coins/tokens, and more.
 
